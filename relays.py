@@ -1,6 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
+ZMĚNA
 ''' trida umoznuje otacet panel ve vsech smerech pomoci spinani prislusnych ctyrech rele  '''
 
 class Relays:
